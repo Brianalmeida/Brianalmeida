@@ -34,6 +34,7 @@ Here are some ideas to get you started:
  ## :trophy: Languages and Tools: :robot:
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+<img src="https://img.shields.io/badge/-Vim-019733?style=for-the-badge&logo=vim&logoColor=white" alt="vim" />
 
 
 ## :mailbox: Get in touch: 💬
