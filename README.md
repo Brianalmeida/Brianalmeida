@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <br><br>
+  <br>Hi,I'm Brian Almeida<br>
   <samp>
-    Hi,I'm Brian Almeida <a href="https://github.com/Brianalmeida":octocat:</a> 
+      <a href="https://github.com/Brianalmeida":octocat:</a> 
   </samp>
 </p>
 
