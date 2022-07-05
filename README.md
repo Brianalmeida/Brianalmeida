@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 </p>
 
 
-<img align="right" width="375" alt="GIF" src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/dino.gif" />
+<img align="right" width="375" alt="GIF" src="https://github.com/Brianalmeida/Brianalmeida/blob/main/img/index.gif" />
 
 
 
