@@ -18,13 +18,9 @@ Here are some ideas to get you started:
 # Hi there, my name is Brian Almeida 
 
 
-<p align="center">
-  
-<br><br>
-  <samp>
-  Fun fact: I love Linux 🐧 /n I currently hold an eJPT certification from eLearnsecurity, as well as a CompTIA Security+ certification, and Linux+ certification. I am currently gaining hands-on experience with various Cloud Platforms such as Microsoft Azure, AWS, and GCP. I work with Windows 11, and Linux. In addition, I have gained experience with C++, Bash scripting, Docker, Kubernetes, and Python.
-  </samp>
-</p>
+> **Fun fact:** I love Linux 🐧. 
+> >I currently hold an eJPT certification from eLearnsecurity, as well as a CompTIA Security+ certification, and Linux+ certification. I am currently gaining hands-on experience with various Cloud Platforms such as Microsoft Azure, AWS, and GCP. I work with Windows 11, and Linux. In addition, I have gained experience with C++, Bash scripting, Docker, Kubernetes, and Python.
+ 
 
 
 <img align="right" width="375" alt="GIF" src="https://github.com/Brianalmeida/Brianalmeida/blob/main/img/index.gif" />
