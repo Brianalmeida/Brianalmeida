@@ -28,6 +28,7 @@
 <img src="https://img.shields.io/badge/-Microsoft Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="microsoft-azure" />
 <img src="https://img.shields.io/badge/-Google Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="googlecloud" />
 <img src="https://img.shields.io/badge/-DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" alt="digitalocean" />
+<img src="https://img.shields.io/badge/-Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="terraform" />
 <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="kubernetes" />
 <img src="https://img.shields.io/badge/-Rancher-0075A8?style=for-the-badge&logo=rancher&logoColor=white" alt="rancher" />
 </div>
