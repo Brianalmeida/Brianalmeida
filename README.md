@@ -10,8 +10,15 @@
 
 
 
-## :pencil2: My Works: :trophy:       
-<div></div>
+## :pencil2: My Certifications: :trophy:       
+
+:penguin: [CompTIA Linux+](https://www.credly.com/badges/42a4174d-5650-41c2-9f94-44111ef69f3b/public_url)<br>
+:lock: [CompTIA Security+](https://www.credly.com/badges/6f39c92c-4f34-40b1-baa8-8945647e7dda?source=linked_in_profile)<br>
+:computer: [eLearnSecurity eJPT](https://elearnsecurity.com/verify-certificate/?c=8ac3a05d-67d5-4a41-b0f5-3f0d3d5e90c6) 
+
+
+<div id="certs"> 
+</div>
  
 ## 🔧: Languages and Tools: :robot:
 <div id="badges">
