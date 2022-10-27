@@ -2,7 +2,6 @@
 # Hi there, my name is Brian Almeida 
 
 > ### Fun fact: I love Linux 🐧.
-> >#### I currently hold an eJPT certification from eLearnsecurity, as well as a CompTIA Security+ certification, and Linux+ certification. I am currently gaining hands-on experience with various Cloud Platforms such as Microsoft Azure, AWS, and GCP. I work with Windows 11, and Linux. In addition, I have gained experience with C++, Bash scripting, Docker, Kubernetes, and Python.
 
 
 
