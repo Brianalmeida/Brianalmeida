@@ -21,7 +21,7 @@
 <div id="certs"> 
 </div>
  
-## 🔧: Languages and Tools: :robot:
+## 🔧: Languages and Tools: 
 <div id="badges">
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="c" />
