@@ -9,7 +9,7 @@
 
 
 
-## :pencil2: My Certifications: :trophy:       
+## :pencil2: My Certifications:       
 
 ***From latest to oldest:***
 
@@ -42,6 +42,6 @@
 </div>
 
 
-## :mailbox: Get in touch: 💬
+## :mailbox: Get in touch: 
 [<img src="https://img.shields.io/badge/visit%20my%20Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />](https://www.linkedin.com/in/brian-a-13718a151)
 
