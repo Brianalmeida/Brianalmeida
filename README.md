@@ -32,6 +32,7 @@
 <img src="https://img.shields.io/badge/-Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="neovim" />
 <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white" alt="linux" />
 <img src="https://img.shields.io/badge/-SUSE-0C322C?style=for-the-badge&logo=suse&logoColor=white" alt="suse" />
+<img src="https://img.shields.io/badge/-FreeBSD-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white" alt="freebsd" />
 <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="aws" />
 <img src="https://img.shields.io/badge/-Microsoft Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="microsoft-azure" />
 <img src="https://img.shields.io/badge/-Google Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="googlecloud" />
