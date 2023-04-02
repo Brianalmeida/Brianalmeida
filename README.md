@@ -5,7 +5,7 @@
 
 
 
-<img align="center" width="300" alt="GIF" src="https://github.com/Brianalmeida/Brianalmeida/blob/main/img/index.gif" />
+<img align="right" width="200" alt="GIF" src="https://github.com/Brianalmeida/Brianalmeida/blob/main/img/index.gif" />
 
 
 
