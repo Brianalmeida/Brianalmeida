@@ -1,7 +1,6 @@
 
 # Hi there, my name is Brian Almeida 
-
-> ### Fun fact: I love Linux 🐧.
+*Fun fact: I love Linux 🐧.*
 
 
 
