@@ -21,7 +21,7 @@
 <div id="certs"> 
 </div>
  
-## 🔧: Languages and Tools: 
+## 🔧 Languages and Tools: 
 <div id="badges">
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="c" />
@@ -43,6 +43,6 @@
 </div>
 
 
-## :mailbox: Get in touch: 
+## 📞 Get in touch: 
 [<img src="https://img.shields.io/badge/visit%20my%20Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />](https://www.linkedin.com/in/brian-a-13718a151)
 
