@@ -1,6 +1,6 @@
 
 # Hi there, my name is Brian Almeida 
-*Fun fact: I love Linux 🐧.*
+*Fun fact: I love Linux 🐧 and CyberSecurity :lock:.*
 
 
 ## :pencil2: My Certifications:       
