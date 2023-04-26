@@ -30,11 +30,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brianalmeida&layout=compact&bg_color=252334&text_color=dbdbdb&icon_color=6cffd0&title_color=ff7372)
 
 
-
-<div id="certs"> 
-</div>
-
-
 ## 📞 Get in touch: 
 [<img src="https://img.shields.io/badge/visit%20my%20Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />](https://www.linkedin.com/in/brian-a-13718a151)
 
