@@ -2,10 +2,6 @@
 # Hi there, my name is Brian Almeida 
 *Fun fact: I love Linux 🐧.*
 
-## Stats 📊
-![Github Readme Stats](https://github-readme-stats.vercel.app/api?username=Brianalmeida&show_icons=true&bg_color=252334&text_color=dbdbdb&icon_color=6cffd0&title_color=ff7372)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brianalmeida&layout=compact&bg_color=252334&text_color=dbdbdb&icon_color=6cffd0&title_color=ff7372)
-
 
 ## :pencil2: My Certifications:       
 
@@ -16,24 +12,26 @@
 :computer: [eLearnSecurity eJPT](https://elearnsecurity.com/verify-certificate/?c=8ac3a05d-67d5-4a41-b0f5-3f0d3d5e90c6) 
 
 
-<div id="certs"> 
-</div>
-
 ## 🔧 Tools:
 <div id="badges">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
-<img src="https://img.shields.io/badge/-Vim-019733?style=for-the-badge&logo=vim&logoColor=white" alt="vim" />
-<img src="https://img.shields.io/badge/-Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="neovim" />
-<img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white" alt="linux" />
-<img src="https://img.shields.io/badge/-SUSE-0C322C?style=for-the-badge&logo=suse&logoColor=white" alt="suse" />
-<img src="https://img.shields.io/badge/-FreeBSD-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white" alt="freebsd" />
-<img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="aws" />
-<img src="https://img.shields.io/badge/-Microsoft Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="microsoft-azure" />
-<img src="https://img.shields.io/badge/-Google Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="googlecloud" />
-<img src="https://img.shields.io/badge/-DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" alt="digitalocean" />
-<img src="https://img.shields.io/badge/-Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="terraform" />
-<img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="kubernetes" />
-<img src="https://img.shields.io/badge/-Rancher-0075A8?style=for-the-badge&logo=rancher&logoColor=white" alt="rancher" />
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/github/github-original.svg" width="30" height="30"/>
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/terraform/terraform-original.svg" width="30" height="30"/>
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/azure/azure-original.svg" width="30" height="30"/> 
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/amazonwebservices/amazonwebservices-original.svg" width="30" height="30"/> 
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/googlecloud/googlecloud-original.svg"width="30" height="30"/> 
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/digitalocean/digitalocean-original.svg" width="30" height="30"/> 
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vim/vim-original.svg" width="30" height="30"/> 
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/opensuse/opensuse-original.svg" width="30" height="30"/> 
+</div>
+
+
+## Stats 📊
+![Github Readme Stats](https://github-readme-stats.vercel.app/api?username=Brianalmeida&show_icons=true&bg_color=252334&text_color=dbdbdb&icon_color=6cffd0&title_color=ff7372)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brianalmeida&layout=compact&bg_color=252334&text_color=dbdbdb&icon_color=6cffd0&title_color=ff7372)
+
+
+
+<div id="certs"> 
 </div>
 
 
