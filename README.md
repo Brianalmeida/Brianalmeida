@@ -20,6 +20,8 @@
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/amazonwebservices/amazonwebservices-original.svg" width="30" height="30"/> 
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/googlecloud/googlecloud-original.svg"width="30" height="30"/> 
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/digitalocean/digitalocean-original.svg" width="30" height="30"/> 
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/kubernetes/kubernetes-plain.svg" width="30" height="30"/>
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/k3s/k3s-original.svg" width="30" height="30"/>
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vim/vim-original.svg" width="30" height="30"/> 
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/opensuse/opensuse-original.svg" width="30" height="30"/> 
 </div>
