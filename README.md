@@ -28,8 +28,9 @@
 
 
 ## Stats 📊
-![Github Readme Stats](https://github-readme-stats.vercel.app/api?username=Brianalmeida&show_icons=true&bg_color=252334&text_color=dbdbdb&icon_color=6cffd0&title_color=ff7372)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brianalmeida&layout=compact&bg_color=252334&text_color=dbdbdb&icon_color=6cffd0&title_color=ff7372)
+![Github Readme Stats](https://github-readme-stats.vercel.app/api?username=Brianalmeida)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brianalmeida&hide_progress=true)](https://github.com/Brianalmeida/github-readme-stats)
 
 
 ## 📞 Get in touch: 
