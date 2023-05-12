@@ -1,7 +1,8 @@
 
 # Hi there, my name is Brian Almeida 
-*Fun fact: I love Linux 🐧 and CyberSecurity :lock:.*
+*Fun fact: I love Linux 🐧 and CyberSecurity :lock:.* 
 
+ [<img src="https://img.shields.io/badge/visit%20my%20Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />](https://www.linkedin.com/in/brian-a-13718a151)
 
 ## 📖 My Certifications:       
 ***From latest to oldest:***
@@ -29,8 +30,4 @@
 ## Stats 📊
 ![Github Readme Stats](https://github-readme-stats-brianalmeida.vercel.app/api?username=Brianalmeida&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats-brianalmeida.vercel.app/api/top-langs/?username=Brianalmeida&hide_progress=true&theme=tokyonight)](https://github.com/Brianalmeida/github-readme-stats)
-
-
-## 📞 Get in touch: 
-[<img src="https://img.shields.io/badge/visit%20my%20Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />](https://www.linkedin.com/in/brian-a-13718a151)
 
