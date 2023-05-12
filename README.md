@@ -3,8 +3,7 @@
 *Fun fact: I love Linux 🐧 and CyberSecurity :lock:.*
 
 
-## :pencil2: My Certifications:       
-
+## 📖 My Certifications:       
 ***From latest to oldest:***
 
 :penguin: [CompTIA Linux+](https://www.credly.com/badges/42a4174d-5650-41c2-9f94-44111ef69f3b/public_url)<br>
