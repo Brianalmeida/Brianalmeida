@@ -28,6 +28,6 @@
 
 
 ## Stats 📊
-![Github Readme Stats](https://github-readme-stats-brianalmeida.vercel.app/api?username=Brianalmeida&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats-brianalmeida.vercel.app/api/top-langs/?username=Brianalmeida&hide_progress=true&theme=tokyonight)](https://github.com/Brianalmeida/github-readme-stats)
+![Github Readme Stats](https://github-readme-stats-git-master-brianalmeida.vercel.app/api?username=Brianalmeida&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats-git-master-brianalmeida.vercel.app/api/top-langs/?username=Brianalmeida&hide_progress=true&theme=tokyonight)](https://github.com/Brianalmeida/github-readme-stats)
 
