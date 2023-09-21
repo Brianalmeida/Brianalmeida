@@ -4,7 +4,7 @@
 - *I love Linux 🐧 and CyberSecurity :lock:.*
 - *Rusty crab in training 🦀*
 
-## Connect 🔗
+## Connect 
 [<img src="https://img.shields.io/badge/visit%20my%20Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />](https://www.linkedin.com/in/brian-a-13718a151)
 
 ---
