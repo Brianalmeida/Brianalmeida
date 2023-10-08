@@ -5,7 +5,7 @@
 - *Rusty crab in training 🦀*
 
 ## Contributions 
-- Rio-term: [1](https://github.com/raphamorim/rio/commit/39d27a627fdb182a6b515a79088fabd0f9510701)
+- [Rio-term](https://github.com/raphamorim/rio/commit/39d27a627fdb182a6b515a79088fabd0f9510701): 1
 
 ## Connect 
 [<img src="https://img.shields.io/badge/visit%20my%20Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />](https://www.linkedin.com/in/brian-a-13718a151)
