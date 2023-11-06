@@ -1,5 +1,5 @@
 
-# Hi there, my name is Brian Almeida 
+# Hi, my name is Brian Almeida 
 
 - *I love Linux 🐧 and CyberSecurity :lock:.*
 - *Rusty crab in training 🦀*
