@@ -6,8 +6,6 @@
 
 
 ## Contributions  
-Repo:
-- [Rio-term](https://github.com/raphamorim/rio/commit/39d27a627fdb182a6b515a79088fabd0f9510701)  
 - [Catppuccin](https://github.com/catppuccin/rio/commits/main)  
 
 ## Connect 
